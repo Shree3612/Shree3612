@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Backend Developer | Java, Spring Boot, JPA, SQL<br>💡 Problem Solver & Tech Enthusiast<br>🔥 Always Learning & Innovating<br>⚡ Building Scalable Backend Systems
+🚀 Backend Developer | Java, Spring Boot, Hibernate, SQL<br>💡 Problem Solver & Tech Enthusiast<br>🔥 Always Learning & Innovating<br>⚡ Building Scalable Backend Systems
 
 
 ## 🌐 Socials:
